@@ -35,13 +35,13 @@ Para rodar o **Grilli** localmente, execute este comando no seu terminal:
 Linux e macOS:
 
 ```bash
-sudo git clone https://github.com/pycacau/grilli.git
+sudo git clone https://github.com/pycacau/grilli-restaurant.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pycacau/grilli.git
+git clone https://github.com/pycacau/grilli-restaurant.git
 ```
 
 ### Contato
