@@ -1,10 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+  
 
   <br />
   <br />
@@ -14,9 +10,9 @@
   Grilli é um site de restaurante totalmente responsivo, <br />Responsivo para todos os dispositivos, construído com HTML, CSS e JavaScript.
   <br />
   <br />
-  <strong>Traduzido para PT-BR e personalizado por <a href="https://github.com/pycacau">@pycacau</a></strong>
+  <strong>Projeto mantido por <a href="https://github.com/pycacau">Artur Maciel (@pycacau)</a></strong>
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <strong>➥ Live Demo: em breve no GitHub Pages de @pycacau</strong>
 
 </div>
 
@@ -26,26 +22,26 @@
 
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Pré-requisitos
 
-Before you begin, ensure you have met the following requirements:
+Antes de começar, certifique-se de ter instalado:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") no seu sistema operacional.
 
-### Run Locally
+### Executar localmente
 
-To run **Grilli** locally, run this command on your git bash:
+Para rodar o **Grilli** localmente, execute este comando no seu terminal:
 
-Linux and macOS:
+Linux e macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/pycacau/grilli.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/pycacau/grilli.git
 ```
 
 ### Contato
